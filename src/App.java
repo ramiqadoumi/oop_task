@@ -54,7 +54,7 @@ public class App {
             card4[i] = new Random().nextInt(11);
 
         }
-        System.out.println("The cards with each player, including number and type");
+        System.out.println("The cards for each player, including number and type");
         //print name1 with his cards
         System.out.println(player_name[0] + " Cards");
 
